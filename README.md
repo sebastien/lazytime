@@ -40,8 +40,6 @@ Lazytime can:
 
 ### Shell
 
-=========
-
 Lazytime can be integrated in your `$PROMPT` to track the directories
 you're `cd'ing` to.
 
